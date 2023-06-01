@@ -9,8 +9,8 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="85cm"
-   height="200cm"
-   viewBox="0 0 850 1999.9999"
+   height="215cm"
+   viewBox="0 0 850 2149.9999"
    version="1.1"
    id="svg8"
    inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
@@ -20,20 +20,20 @@
     <rect
        x="-1040.8674"
        y="1089.7876"
-       width="144.19793"
+       width="144.19794"
        height="14.552037"
        id="rect3760" />
     <rect
-       x="-1039.5445"
-       y="969.40214"
+       x="-1039.5446"
+       y="969.40216"
        width="148.16667"
        height="15.875"
        id="rect3682" />
     <rect
-       x="-676.47567"
-       y="249.22117"
-       width="153.14538"
-       height="32.572082"
+       x="-676.47565"
+       y="249.22118"
+       width="153.14539"
+       height="32.572083"
        id="rect360" />
     <inkscape:path-effect
        effect="envelope"
@@ -55,7 +55,7 @@
        xx="true"
        bendpath1="M -611.59601,-144.33618 H 240.55115"
        bendpath2="M 240.55115,-144.33618 V 445.52714"
-       bendpath3="m -611.59601,445.52714 c 284.04788,-0.001 444.87606,-183.16771 852.14716,0"
+       bendpath3="m -611.59601,445.52714 c 284.04788,-10e-4 444.87606,-183.16771 852.14716,0"
        bendpath4="M -611.59601,-144.33618 V 445.52714"
        bendpath3-nodetypes="cc" />
     <inkscape:path-effect
@@ -71,15 +71,15 @@
        bendpath4="m -610.91946,1059.3605 v 698.3316"
        bendpath1-nodetypes="cc" />
     <rect
-       x="-574.92996"
+       x="-574.92993"
        y="232.94279"
-       width="421.65944"
-       height="85.342501"
+       width="421.65945"
+       height="85.342499"
        id="rect680" />
     <rect
        x="49.479446"
-       y="68.425502"
-       width="772.39434"
+       y="68.425499"
+       width="772.39435"
        height="169.35696"
        id="rect12" />
     <inkscape:path-effect
@@ -833,7 +833,7 @@
     <rect
        x="-574.92993"
        y="232.94279"
-       width="390.76476"
+       width="390.76477"
        height="104.73624"
        id="rect680-7" />
     <rect
@@ -845,8 +845,8 @@
     <rect
        x="-574.92993"
        y="232.94279"
-       width="749.67962"
-       height="39.247519"
+       width="749.67963"
+       height="39.24752"
        id="rect680-7-5" />
     <rect
        x="-574.92993"
@@ -899,8 +899,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.12374369"
-     inkscape:cx="-39.654856"
-     inkscape:cy="3523.0863"
+     inkscape:cx="785.27592"
+     inkscape:cy="4355.1496"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1-6"
      inkscape:document-rotation="0"
@@ -926,7 +926,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -2132,12 +2132,12 @@
              style="font-family:'Iosevka Aile';-inkscape-font-specification:'Iosevka Aile'"> free and open source
 </tspan></tspan></text>
       <rect
-         style="fill:#3f3d56;fill-opacity:1;stroke:#ffffff;stroke-width:0.332063"
+         style="fill:#3f3d56;fill-opacity:1;stroke:#ffffff;stroke-width:0.525299"
          id="rect497"
-         width="849.66791"
-         height="99.667931"
-         x="-610.88574"
-         y="1753.0265" />
+         width="849.47467"
+         height="249.4747"
+         x="-610.78912"
+         y="1753.123" />
       <rect
          style="fill:#3f3d56;fill-opacity:1;stroke:#ffffff;stroke-width:0.287234"
          id="rect499"
