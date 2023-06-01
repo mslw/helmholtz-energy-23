@@ -898,9 +898,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.17500001"
-     inkscape:cx="1939.1565"
-     inkscape:cy="3680.4578"
+     inkscape:zoom="0.12374369"
+     inkscape:cx="4806.4254"
+     inkscape:cy="4100.9901"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1-6"
      inkscape:document-rotation="0"
@@ -933,15 +933,13 @@
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     id="layer1">
-    <text
-       xml:space="preserve"
-       id="text10"
-       style="fill:black;fill-opacity:1;line-height:1.25;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:10.58333333px;white-space:pre;shape-inside:url(#rect12);" />
+     id="layer1"
+     style="display:inline">
     <g
        inkscape:label="Layer 1"
        id="layer1-6"
-       transform="translate(610.91947,147.13953)">
+       transform="translate(610.91947,147.13953)"
+       style="display:inline">
       <path
          style="fill:#f2f2f2;fill-opacity:1;stroke:#ffffff;stroke-width:0.30347"
          id="rect690"
@@ -953,30 +951,6 @@
          d="m -610.98448,-144.19184 c 8.2e-4,0 98.84442,-2.7e-4 98.84359,-2.7e-4 0.9803,0 92.80558,-0.002 93.78587,-0.002 21.32457,-8e-4 163.42166,-0.0115 184.74623,-0.0123 -3.06932,2.4e-4 100.13362,-0.005 97.0643,-0.005 5.7e-4,0 106.355279,0.003 106.354706,0.003 11.546516,7.6e-4 111.276058,0.0103 122.822575,0.011 -30.824995,-0.003 179.384459,0.0153 148.559459,0.0121 40.14559,205.288271 40.30427,401.81054 -0.0794,589.97885 -47.42444,-10.26165 -95.74275,-26.74277 -143.775181,-41.54739 -40.431692,-12.46193 -80.406167,-23.64546 -122.199762,-30.7707 -36.066517,-6.14894 -71.880409,-8.94003 -108.304997,-7.82491 -33.19579,1.0162 -65.78902,5.23826 -98.54896,11.7172 -62.05501,12.27246 -122.88339,32.14755 -184.50639,46.36941 -31.65022,7.30458 -62.434,12.94007 -94.47979,16.62274 -33.82716,3.88736 -66.49239,5.29479 -100.27485,5.31159 0,1e-4 -0.007,-589.86306 -0.007,-589.86316 z"
          sodipodi:type="rect"
          class="UnoptimicedTransforms" />
-      <text
-         xml:space="preserve"
-         transform="matrix(0.26458333,0,0,0.26458333,-358.92468,-39.946057)"
-         id="text8199"
-         style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect8201);fill:#000000;fill-opacity:1;stroke:none;"><tspan
-           style="visibility:hidden"
-           x="1811.9551"
-           y="519.59766"><tspan
-             dx="0 27.929688 24.472656 11.113281 11.113281 24.511719 25.390625 24.472656 16.445312 24.511719 15.683594">Collaborate</tspan></tspan></text>
-      <text
-         xml:space="preserve"
-         transform="matrix(0.26458333,0,0,0.26458333,-358.92468,-39.946057)"
-         id="text15971"
-         style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect15973);fill:#000000;fill-opacity:1;stroke:none;"><tspan
-           style="visibility:hidden"
-           x="1582.5938"
-           y="511.95312"><tspan
-             dx="0 27.929688 24.472656 11.113281 11.113281 24.511719 25.390625 24.472656 16.445312 24.511719 15.683594 24.609375">Collaborate
-</tspan></tspan></text>
-      <text
-         xml:space="preserve"
-         transform="matrix(0.26458333,0,0,0.26458333,-358.92468,-39.946057)"
-         id="text23457"
-         style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect23459);fill:#000000;fill-opacity:1;stroke:none;" />
       <g
          id="g16154"
          transform="matrix(0.05337578,0,0,-0.05337578,-170.97647,-26.719576)" />
@@ -2171,14 +2145,14 @@
              style="font-family:'Iosevka Aile';-inkscape-font-specification:'Iosevka Aile'"> free and open source
 </tspan></tspan></text>
       <rect
-         style="fill:#3f3d56;stroke:#ffffff;stroke-width:0.332063;fill-opacity:1"
+         style="fill:#3f3d56;fill-opacity:1;stroke:#ffffff;stroke-width:0.332063"
          id="rect497"
          width="849.66791"
          height="99.667931"
          x="-610.88574"
          y="1753.0265" />
       <rect
-         style="fill:#3f3d56;stroke:#ffffff;stroke-width:0.287234;fill-opacity:1"
+         style="fill:#3f3d56;fill-opacity:1;stroke:#ffffff;stroke-width:0.287234"
          id="rect499"
          width="849.71277"
          height="49.712765"
